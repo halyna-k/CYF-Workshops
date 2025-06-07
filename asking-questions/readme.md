@@ -8,6 +8,7 @@
 Today we're going to start learning a formal language of developer questions. We will begin with this basic format:
 
 1. What I _did_
+  Partner cloned my fork and pull info from branch
 1. What I _expected_
 1. What actually _happened_
 
