@@ -8,8 +8,9 @@
 Today we're going to start learning a formal language of developer questions. We will begin with this basic format:
 
 1. What I _did_
-  Partner cloned my fork and pull info from branch
+   Partner cloned my fork and pull info from branch
 1. What I _expected_
+   My Partner will expect i received her change.
 1. What actually _happened_
 
 This format helps to find the discrepancies between expectations and reality. (This is the gap in our understanding.)
